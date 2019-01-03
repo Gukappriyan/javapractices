@@ -7,6 +7,7 @@ public class CheckOneStringRotaionOther {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//String Rotation in Java - Write a Program to check if strings are rotations of each other or not
+		//Input avajava javaava     avajavaavajava
 		
 		Scanner  scr = new Scanner(System.in);
 		System.out.println("Print org string :");

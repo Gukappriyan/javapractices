@@ -22,7 +22,7 @@ public class PolindromNumber {
 		if(givenIn == s) {
 			System.out.println(givenIn+" is polindrom");
 		}else {
-			System.out.println(givenIn+" is not polindrom");
+			System.out.println(givenIn+" is not polindrom "+s);
 		}
 
 	}
