@@ -9,9 +9,10 @@ public class StackImp {
 		st.push(10);
 		st.push(10);
 		st.push(10);
+		System.out.println(st.peek());
 		st.push(10);
 		st.push(10);
-		st.show();
+		//st.show();
 		st.push(10);
 		st.push(20);
 		st.pop();

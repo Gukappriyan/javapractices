@@ -26,9 +26,9 @@ public class PrintDublicateCharter {
 			}
 		}
 		
-		Set<Map.Entry<Character, Integer>> entrySet = printDu.entrySet();
+		//Set<Map.Entry<Character, Integer>> entrySet = printDu.entrySet();
 		
-		for(Map.Entry<Character, Integer> entry:entrySet) {
+		for(Map.Entry<Character, Integer> entry:printDu.entrySet()) {
 			
 			if(entry.getValue()>1) {
 				
