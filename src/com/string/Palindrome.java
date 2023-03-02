@@ -1,5 +1,6 @@
 package com.string;
 
+// Examples of palindromic words are "level," "deified," and "racecar."
 public class Palindrome {
 
 	public static void main(String[] args) {
